@@ -80,6 +80,6 @@ Make informed, data-driven business improvements
 
 🔗 Project Links
 
-📂 GitHub Repository: [[Add your GitHub project link here]](https://github.com/tejaspocchi-bit/Excel_Project_Blinkit_Dashboard.git)
+📂 GitHub Repository: (https://github.com/tejaspocchi-bit/Excel_Project_Blinkit_Dashboard.git)
 
 💼 LinkedIn Post: [Add LinkedIn link after posting]
