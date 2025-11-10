@@ -82,4 +82,4 @@ Make informed, data-driven business improvements
 
 📂 GitHub Repository: (https://github.com/tejaspocchi-bit/Excel_Project_Blinkit_Dashboard.git)
 
-💼 LinkedIn Post: [Add LinkedIn link after posting]
+💼 LinkedIn Post: (https://www.linkedin.com/feed/update/urn:li:activity:7393711748861759488/)
