@@ -77,8 +77,9 @@ Make informed, data-driven business improvements
 <img width="1089" height="640" alt="Screenshot 2025-11-10 221632" src="https://github.com/user-attachments/assets/7bbb630a-8281-4836-8515-c70ca75c3d1a" />
 
 
+
 🔗 Project Links
 
-📂 GitHub Repository: [Add your GitHub project link here]
+📂 GitHub Repository: [[Add your GitHub project link here]](https://github.com/tejaspocchi-bit/Excel_Project_Blinkit_Dashboard.git)
 
 💼 LinkedIn Post: [Add LinkedIn link after posting]
