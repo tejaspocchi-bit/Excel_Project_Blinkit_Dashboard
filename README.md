@@ -8,9 +8,7 @@ The goal is to identify key insights and opportunities for optimization through 
 
 🎯 Business Requirement
 
-To conduct an in-depth analysis of Blinkit’s sales data and visualize performance using key metrics such as Total Sales, Average Sales, Number of Items, and Average Rating.
-
-KPI Requirements
+The objective of this project is to conduct an in-depth analysis of Blinkit’s sales data and visualize performance using important metrics such as:
 
 Total Sales: Overall revenue generated from all items sold.
 
@@ -29,7 +27,6 @@ Average Rating: Average customer rating for sold items.
 5	Sales by Outlet Size	Analyze correlation between outlet size and total sales	Donut / Pie Chart
 6	Sales by Outlet Location	Assess geographic distribution of sales	Funnel Map
 7	All Metrics by Outlet Type	View all KPIs (Total Sales, Average Sales, etc.) by outlet type	Matrix Table
-
 ⚙️ Tools Used
 
 Microsoft Excel
@@ -42,7 +39,7 @@ Conditional Formatting
 
 Data Cleaning and Analysis
 
-Dashboard Design (Interactive slicers and visuals)
+Dashboard Design (Interactive Slicers and Visuals)
 
 📈 Key Insights
 
@@ -52,12 +49,20 @@ Regular-sized outlets outperformed small and large ones in revenue.
 
 Some outlet types consistently maintain higher customer ratings.
 
-Geographic differences in performance indicate potential areas for sales optimization.
+Geographic differences in performance highlight potential areas for sales optimization.
 
 💡 Conclusion
 
-The Excel dashboard provides a clear, interactive visualization of Blinkit’s business performance.
-It enables decision-makers to monitor key KPIs, understand sales trends, and make data-driven business improvements.
+The Blinkit Excel Dashboard provides a clear and interactive visualization of Blinkit’s business performance.
+It enables decision-makers to:
+
+Monitor key KPIs
+
+Understand sales trends
+
+Identify growth opportunities
+
+Make informed, data-driven business improvements
 
 🖼️ Dashboard Preview
 
