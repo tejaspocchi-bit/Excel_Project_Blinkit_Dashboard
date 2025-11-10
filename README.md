@@ -27,6 +27,8 @@ Average Rating: Average customer rating for sold items.
 5	Sales by Outlet Size	Analyze correlation between outlet size and total sales	Donut / Pie Chart
 6	Sales by Outlet Location	Assess geographic distribution of sales	Funnel Map
 7	All Metrics by Outlet Type	View all KPIs (Total Sales, Average Sales, etc.) by outlet type	Matrix Table
+
+
 ⚙️ Tools Used
 
 Microsoft Excel
@@ -41,6 +43,7 @@ Data Cleaning and Analysis
 
 Dashboard Design (Interactive Slicers and Visuals)
 
+
 📈 Key Insights
 
 Medium-fat items generated the highest total sales.
@@ -50,6 +53,7 @@ Regular-sized outlets outperformed small and large ones in revenue.
 Some outlet types consistently maintain higher customer ratings.
 
 Geographic differences in performance highlight potential areas for sales optimization.
+
 
 💡 Conclusion
 
@@ -64,10 +68,11 @@ Identify growth opportunities
 
 Make informed, data-driven business improvements
 
+
 🖼️ Dashboard Preview
 
 
-Add screenshots of your Excel dashboard here (like the images you uploaded).<img width="1089" height="640" alt="Screenshot 2025-11-10 221632" src="https://github.com/user-attachments/assets/7bbb630a-8281-4836-8515-c70ca75c3d1a" />
+.<img width="1089" height="640" alt="Screenshot 2025-11-10 221632" src="https://github.com/user-attachments/assets/7bbb630a-8281-4836-8515-c70ca75c3d1a" />
 
 
 🔗 Project Links
