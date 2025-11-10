@@ -6,6 +6,7 @@
 This project presents a comprehensive analysis of Blinkit’s sales performance, customer satisfaction, and inventory distribution using Microsoft Excel.
 The goal is to identify key insights and opportunities for optimization through interactive charts, KPIs, and data-driven visualizations.
 
+
 🎯 Business Requirement
 
 The objective of this project is to conduct an in-depth analysis of Blinkit’s sales data and visualize performance using important metrics such as:
@@ -18,7 +19,9 @@ Number of Items: Total count of different items sold.
 
 Average Rating: Average customer rating for sold items.
 
+
 📊 Charts & Analysis
+
 #	Chart Title	Objective	Chart Type
 1	Total Sales by Fat Content	Analyze the impact of fat content on total sales	Donut Chart
 2	Total Sales by Item Type	Identify the performance of different item types	Bar Chart
@@ -71,8 +74,7 @@ Make informed, data-driven business improvements
 
 🖼️ Dashboard Preview
 
-
-.<img width="1089" height="640" alt="Screenshot 2025-11-10 221632" src="https://github.com/user-attachments/assets/7bbb630a-8281-4836-8515-c70ca75c3d1a" />
+<img width="1089" height="640" alt="Screenshot 2025-11-10 221632" src="https://github.com/user-attachments/assets/7bbb630a-8281-4836-8515-c70ca75c3d1a" />
 
 
 🔗 Project Links
